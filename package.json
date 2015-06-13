@@ -1,0 +1,13 @@
+{
+  "name": "jsnlogProblem",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "grunt-browserify": "~3.8.0",
+    "babelify": "~6.1.2",
+    "grunt": "~0.4.5"
+  }
+}
